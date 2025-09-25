@@ -14,7 +14,7 @@ Me chamo Sandro Pereira de Lima, tenho 32 anos e sou natural do estado de Pernam
     title="html-5" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://www.w3c.br/wp-content/uploads/2010/09/Prancheta-1.png"
+    src="https://www.shareicon.net/data/512x512/2015/10/04/111732_html5-icon_512x512.png"
     />
     <img 
     align="left" 
