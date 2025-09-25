@@ -14,15 +14,7 @@ Me chamo Sandro Pereira de Lima, tenho 32 anos e sou natural do estado de Pernam
     title="html-5" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Devicon-html5-plain.svg/512px-Devicon-html5-plain.svg.png?20190106214352)"
-    />
-    <img 
-    align="left" 
-    alt="python"
-    title="python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
     />
     
 <img 
@@ -31,7 +23,25 @@ Me chamo Sandro Pereira de Lima, tenho 32 anos e sou natural do estado de Pernam
     title="css" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://github.com/user-attachments/assets/b0e91bfb-78c6-43ca-bcbd-7076af03a8c4"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
+    />
+    
+<img 
+    align="left" 
+    alt="javascript"
+    title="javascript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
+    
+<img 
+    align="left" 
+    alt="python"
+    title="python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     />
     
 
@@ -44,5 +54,5 @@ Me chamo Sandro Pereira de Lima, tenho 32 anos e sou natural do estado de Pernam
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=YOLEzn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Sandro-Lima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
