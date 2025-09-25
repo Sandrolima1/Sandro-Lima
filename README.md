@@ -25,6 +25,15 @@ Me chamo Sandro Pereira de Lima, tenho 32 anos e sou natural do estado de Pernam
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
     />
     
+<img 
+    align="left" 
+    alt="css"
+    title="css" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/b0e91bfb-78c6-43ca-bcbd-7076af03a8c4"
+    />
+    
 
 
 ### 📊 Estatísticas
